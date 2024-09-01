@@ -18,6 +18,7 @@ Test the wikipedia
 # LLm Chat
 ![image](https://github.com/user-attachments/assets/efc7c5cd-6bf7-434e-b557-a0109563a312)
 ![image](https://github.com/user-attachments/assets/b2584081-ddc8-4aa3-ba7f-dd5063815456)
+![image](https://github.com/user-attachments/assets/bd0350ab-8d43-4b08-aaf8-69551ad9ffd3)
 # now time for Graph Builder
 ![image](https://github.com/user-attachments/assets/6fbbd20d-e085-4963-b007-3f8e5907b596)
 ![image](https://github.com/user-attachments/assets/2c3a485b-dee0-458a-8c72-9c98b0c23739)
